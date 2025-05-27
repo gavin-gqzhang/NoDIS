@@ -5,11 +5,11 @@ The implementation code for the paper "Noise-Guided Predicate Representation Ext
 🎉 This paper has been accepted by ICML2025 [![PDF](https://img.shields.io/badge/Paper-PDF-orange)](./Noise_Guided_Predicate_Representation_Extraction_and_Diffusion_Enhanced_Discretization_for_Scene_Graph_Generation.pdf)
 
 <p align="center">
-  <img src="./figs/overview.png" width="300"/>
+  <img src="./figs/overview.png" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="./figs/model_detail.png" width="300"/>
+  <img src="./figs/model_detail.png" width="1000"/>
 </p>
 
 
